@@ -1,3 +1,7 @@
+> **Bifurcación archivada (solo lectura).** Copia sin modificar del proyecto original [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover), conservada solo como referencia. No se mantiene ni se distribuye desde aquí. El titular de esta bifurcación no se hace responsable de su uso ni de modificaciones de terceros; cada usuario debe revisar el código y cumplir la ley y los términos de servicio aplicables. Úsese solo sobre contenido propio.
+>
+> **Archived fork (read-only).** Unmodified copy of the upstream project, kept for reference only. The fork owner accepts no responsibility for its use or for third-party modifications; every user must review the code and comply with applicable law and terms of service.
+
 ```
 _ _ _ ____ ___ ____ ____ _  _ ____ ____ _  _ ____    ____ ____ _  _ ____ _  _ ____ ____
 | | | |__|  |  |___ |__/ |\/| |__| |__/ |_/  [__  __ |__/ |___ |\/| |  | |  | |___ |__/
